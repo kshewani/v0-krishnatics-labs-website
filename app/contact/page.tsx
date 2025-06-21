@@ -19,19 +19,19 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email Us",
-    details: "hello@krishnaticslabs.com",
+    details: "info@krishnaticslabs.com",
     description: "Send us an email and we'll respond within 24 hours",
   },
   {
     icon: Phone,
     title: "Call Us",
-    details: "+1 (555) 123-4567",
+    details: "+91-7823852090",
     description: "Speak directly with our AI experts",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    details: "123 Innovation Drive, Tech Valley, CA 94025",
+    details: "Kharadi, Pune - 411014",
     description: "Schedule an in-person consultation",
   },
   {

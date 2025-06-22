@@ -91,15 +91,15 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-gray-400">
                 <Mail className="h-4 w-4 text-cyan-400" />
-                <span className="text-sm">hello@krishnaticslabs.com</span>
+                <span className="text-sm">info@krishnaticslabs.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <Phone className="h-4 w-4 text-cyan-400" />
-                <span className="text-sm">+1 (555) 123-4567</span>
+                <span className="text-sm">+91 78238 52090</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400">
                 <MapPin className="h-4 w-4 text-cyan-400" />
-                <span className="text-sm">123 Innovation Drive, Tech Valley, CA</span>
+                <span className="text-sm">Pune, Maharashtra, India</span>
               </div>
             </div>
           </div>
